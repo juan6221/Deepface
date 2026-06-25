@@ -54,7 +54,7 @@ rich
 six
 soupsieve
 sympy
-tensorflow==2.15.0
+tensorflow-cpu==2.13.0
 termcolor
 tf_keras
 tqdm
